@@ -1,0 +1,105 @@
+header{
+  height: 100px;
+  color:#69696a;
+  font-size: 18px;
+  padding-top: 30px
+
+}
+body{
+  background-color: #f9fafc;
+  margin-left: 10px;
+  padding: 10px;
+}
+.item-1{
+  display: block;
+  float: right;
+  padding-right: 30px;
+
+}
+.item-1 ul a{
+  text-decoration: none;
+  padding: 20px;
+  padding-top: 30px;
+color:#69696a;
+font-size: 18px;
+}
+.Post{
+  float: left;
+  padding-top: 12px;
+  padding-left: 15px;
+  width:620px;
+  margin: 10px;
+  padding-bottom: 14px;
+  border-left-style: inset;
+}
+
+p{
+  display: block;
+  text-indent: inherit;
+  padding-top: 30px;
+}
+
+button{
+  background-color: #000;
+  text-decoration: none;
+  color: #f9fafc;
+  border-radius: 17px;
+  padding: 10px;
+  display: block;
+  font-size: 17px;
+}
+.button{
+  float: right;
+  width: 120px;
+}
+.button-footer{
+  width: 150px;
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+}
+
+.circle{
+  float: right;
+  padding-top: 12px;
+  padding-right: 130px;
+  width:300px;
+  margin: 10px;
+  position: relative;
+
+}
+
+
+.pink{
+  width: 275px;
+  height: 275px;
+  border-radius: 50%;
+background: rgba(247,136,167,0.6);
+position: absolute;
+
+
+
+}
+
+.orange{
+  width: 200px;
+  height:200px;
+  background: rgba(247,193,162,0.7);
+  border-radius: 50%;
+  left: 140px;
+position: absolute;
+top: 160px;
+
+
+
+}
+.purple{
+  width:125px;
+  height: 125px;
+  background: rgba(207,130,213,0.6);
+  border-radius: 50%;
+  position: absolute;
+  bottom: 130px;
+  left: 110px;
+
+}
